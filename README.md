@@ -1,5 +1,5 @@
 # linux-image-5.6.0-1020-oem-update-config
-linux-image-5.6.0-1020 , update , gcc-5 , gui perfomance gtk3
+linux-image-5.6.0-1020 , update , gcc-5 , gui perfomance gtk3 , wayland kernel perfomance gui
 
 Install
 
